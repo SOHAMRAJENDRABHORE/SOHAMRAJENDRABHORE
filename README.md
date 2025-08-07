@@ -56,3 +56,30 @@
   </a>
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SOHAMRAJENDRABHORE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOHAMRAJENDRABHORE&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SOHAMRAJENDRABHORE&theme=monokai" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/SOHAMRAJENDRABHORE/">
+    <img src="https://leetcard.jacoblin.cool/SOHAMRAJENDRABHORE?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
