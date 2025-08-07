@@ -25,26 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajendrabhore&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrabhore&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajendrabhore&theme=monokai" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
